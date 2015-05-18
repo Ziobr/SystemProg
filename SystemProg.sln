@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashTable1", "SystemProg\HashTable1.csproj", "{24BEBAD4-8BE3-4DA4-A5C5-BEAD1B09C193}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashTable2", "HashTable2\HashTable2.csproj", "{6046984F-6890-427D-B93D-408453EAADFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashLibs", "HashLibs\HashLibs.csproj", "{DC17D9FB-E6CA-4926-B12F-9254EB0AD8E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24BEBAD4-8BE3-4DA4-A5C5-BEAD1B09C193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24BEBAD4-8BE3-4DA4-A5C5-BEAD1B09C193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24BEBAD4-8BE3-4DA4-A5C5-BEAD1B09C193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24BEBAD4-8BE3-4DA4-A5C5-BEAD1B09C193}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6046984F-6890-427D-B93D-408453EAADFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6046984F-6890-427D-B93D-408453EAADFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6046984F-6890-427D-B93D-408453EAADFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6046984F-6890-427D-B93D-408453EAADFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC17D9FB-E6CA-4926-B12F-9254EB0AD8E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC17D9FB-E6CA-4926-B12F-9254EB0AD8E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC17D9FB-E6CA-4926-B12F-9254EB0AD8E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC17D9FB-E6CA-4926-B12F-9254EB0AD8E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
